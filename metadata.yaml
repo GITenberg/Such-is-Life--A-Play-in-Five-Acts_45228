@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34080
     wikipedia: http://en.wikipedia.org/wiki/Frank_Wedekind
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45228#Such-is-Life--A-Play-in-Five-Acts
 gutenberg_issued: '2014-03-26'
 gutenberg_type: Text
 identifiers:
